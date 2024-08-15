@@ -1,3 +1,7 @@
+.fighterRows {
+  display: flex;
+}
+
 ul {
   display: flex;
   flex-wrap: wrap;
